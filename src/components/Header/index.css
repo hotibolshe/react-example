@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: space-evenly;
+  border: 1px solid #000;
+}
+
+.header--small {
+  height: 20px;
+}
